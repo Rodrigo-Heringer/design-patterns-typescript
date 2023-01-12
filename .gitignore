@@ -3,4 +3,3 @@ dist
 __my_files
 venv
 .mypy_cache
-.vscode
