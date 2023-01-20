@@ -9,4 +9,3 @@ const customizedTShirt = new ProductCustomizationDecorator(tShirt);
 console.log(tShirt.getPrice(), tShirt.getName());
 console.log(tShirtWithStamp.getPrice(), tShirtWithStamp.getName());
 console.log(customizedTShirt.getPrice(), customizedTShirt.getName());
-
